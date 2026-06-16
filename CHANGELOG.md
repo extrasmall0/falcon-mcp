@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.0](https://github.com/CrowdStrike/falcon-mcp/compare/v0.12.0...v0.13.0) (2026-06-16)
+
+
+### Features
+
+* **dynamic:** add dynamic mode to reduce context window usage ([#441](https://github.com/CrowdStrike/falcon-mcp/issues/441)) ([807d3db](https://github.com/CrowdStrike/falcon-mcp/commit/807d3db203dd0d9cd2c04dfa5f8455d971b0a97e))
+
 ## [0.12.0](https://github.com/CrowdStrike/falcon-mcp/compare/v0.11.0...v0.12.0) (2026-06-11)
 
 
